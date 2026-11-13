@@ -1,0 +1,5 @@
+.temp/
+*.png
+*.xml
+*.txt
+Thumbs.db
